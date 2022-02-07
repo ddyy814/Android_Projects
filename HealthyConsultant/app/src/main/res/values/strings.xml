@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Healthy Consultant</string>
+    <string name="sedentary">Little or no exercise</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="calorie">Calorie Calculator</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="lightly_active">Light exercise/sports 1-3 days/week</string>
+    <string name="moderately_active">Moderate exercise/sports 3-5 days/week</string>
+    <string name="very_active">Hard exercise/sports 6-7 days a week</string>
+    <string name="extra_active">Very hard exercise/sports and physical job or 2x training</string>
+    <string name="user_gender"></string>
+
+</resources>
